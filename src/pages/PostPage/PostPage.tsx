@@ -2,10 +2,16 @@ import React from "react";
 import { Link, useParams } from "react-router-dom";
 import { useGetPostByIdQuery } from "../../api/api.ts";
 import Loader from "../../shared/loader.tsx";
+import PostDetail from "../../entities/Post/ui/PostDetail.tsx";
 
-const PostDetail: React.FC = () => {
+const PostPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
-  const { data: post, isLoading, isError, error } = useGetPostByIdQuery(Number(id));
+  const {
+    data: post,
+    isLoading,
+    isError,
+    error,
+  } = useGetPostByIdQuery(Number(id));
 
   return (
     <>
@@ -19,10 +25,8 @@ const PostDetail: React.FC = () => {
           >
             Back to posts
           </Link>
-          <h1 className="text-7xl font-medium italic font-sans text-center mb-20">
-            {post?.title}
-          </h1>
-          <p className="text-4xl font-normal text-gray-600">{post?.body}</p>
+
+          <PostDetail data={post} />
         </div>
       )}
 
@@ -33,4 +37,4 @@ const PostDetail: React.FC = () => {
   );
 };
 
-export default PostDetail;
+export default PostPage;
