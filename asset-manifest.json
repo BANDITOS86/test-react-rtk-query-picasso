@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-react-rtk-query-picasso/static/css/main.74847a0b.css",
-    "main.js": "/test-react-rtk-query-picasso/static/js/main.1589ab16.js",
+    "main.js": "/test-react-rtk-query-picasso/static/js/main.793d3caa.js",
     "index.html": "/test-react-rtk-query-picasso/index.html",
     "main.74847a0b.css.map": "/test-react-rtk-query-picasso/static/css/main.74847a0b.css.map",
-    "main.1589ab16.js.map": "/test-react-rtk-query-picasso/static/js/main.1589ab16.js.map"
+    "main.793d3caa.js.map": "/test-react-rtk-query-picasso/static/js/main.793d3caa.js.map"
   },
   "entrypoints": [
     "static/css/main.74847a0b.css",
-    "static/js/main.1589ab16.js"
+    "static/js/main.793d3caa.js"
   ]
 }
