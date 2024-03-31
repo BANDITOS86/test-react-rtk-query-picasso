@@ -13,7 +13,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ### Демонстрация:
 
-* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/test-react-rtk-query-picasso/ "React-Posts"), либо скачать репозиторий из ветки dev:
+* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/test-react-rtk-query-picasso/ "React-Posts"), либо скачать репозиторий из ветки dev:
 ```javascript
   https://github.com/BANDITOS86/test-react-rtk-query-picasso/tree/dev
 ```
@@ -38,6 +38,6 @@
 
 ### Результат:
 #### Главная
-[![React-Posts](https://github.com/BANDITOS86/my-img/blob/main/posts-picasso.png?raw=true)](https://banditos86.github.io/test-react-rtk-query-picasso/)
+[![React-Posts](https://github.com/BANDITOS86/my-img/blob/main/posts-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
 #### Детальная
-[![React-Posts](https://github.com/BANDITOS86/my-img/blob/main/post-detail-picasso.png?raw=true)](https://banditos86.github.io/test-react-rtk-query-picasso/)
+[![React-Posts](https://github.com/BANDITOS86/my-img/blob/main/post-detail-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
