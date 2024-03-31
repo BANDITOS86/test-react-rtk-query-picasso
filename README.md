@@ -34,7 +34,7 @@
   npm run deploy
 ```
 
-### Deploy: [React-Posts](https://banditos86.github.io/test-react-rtk-query-picasso/ "React-Posts")
+### Deploy: [React-Posts](https://sashadev86.github.io/test-react-rtk-query-picasso/ "React-Posts")
 
 ### Результат:
 #### Главная
