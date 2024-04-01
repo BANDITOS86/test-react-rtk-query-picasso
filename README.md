@@ -15,7 +15,7 @@
 
 * Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/test-react-rtk-query-picasso/ "React-Posts"), либо скачать репозиторий из ветки dev:
 ```javascript
-  https://github.com/BANDITOS86/test-react-rtk-query-picasso/tree/dev
+  https://github.com/sashadev86/test-react-rtk-query-picasso/tree/dev
 ```
 * После скачивания репозитория, для подтягивания всех зависимостей в терминале запустите команду:
 ```javascript
@@ -38,6 +38,6 @@
 
 ### Результат:
 #### Главная
-[![React-Posts](https://github.com/BANDITOS86/my-img/blob/main/posts-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
+[![React-Posts](https://github.com/sashadev86/my-img/blob/main/posts-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
 #### Детальная
-[![React-Posts](https://github.com/BANDITOS86/my-img/blob/main/post-detail-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
+[![React-Posts](https://github.com/sashadev86/my-img/blob/main/post-detail-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
