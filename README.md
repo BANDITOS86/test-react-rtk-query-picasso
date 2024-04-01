@@ -40,4 +40,4 @@
 #### Главная
 [![React-Posts](https://github.com/sashadev86/my-img/blob/main/posts-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
 #### Детальная
-[![React-Posts](https://github.com/sashadev86/my-img/blob/main/post-detail-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/)
+[![React-Posts](https://github.com/sashadev86/my-img/blob/main/post-detail-picasso.png?raw=true)](https://sashadev86.github.io/test-react-rtk-query-picasso/#/posts/1)
